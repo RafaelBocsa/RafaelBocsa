@@ -1,5 +1,5 @@
 <h1 align="center">Hey! My name is Rafael Bocsa 👋</h1>
-<h3 align="center">My interests are in software development and cloud computing!</h3>
+<h3 align="center">My interests are in software development and game deisgn!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelbocsa&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelbocsa" /> </p>
 
