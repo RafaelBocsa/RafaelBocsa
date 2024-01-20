@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelbocsa&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelbocsa" /> </p>
 
 - 🌱 I’m currently obtaining my Bachelors of Science in **Computer Science!**
-- 🤔 I’m currently learning **Python and Django**
+- 🤔 I’m currently learning **React and Next.js**
 - ⚡ Fun fact **I love playing the piano and solving rubiks cubes!**
 
 <h3 align="left">Connect with me:</h3>
